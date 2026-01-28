@@ -1,0 +1,10 @@
+{
+  "monte-carlo-lorenz": {
+    "url": "https://github.com/sdp-dev/monte-carlo-lorenz",
+    "name": "monte-carlo-lorenz",
+    "local_path": "data/repos/monte-carlo-lorenz",
+    "last_indexed": "2026-01-28T15:46:42.213723",
+    "file_count": 1,
+    "chunk_count": 3
+  }
+}
